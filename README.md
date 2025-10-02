@@ -15,11 +15,11 @@ A simple Flutter app demonstrating **ListView navigation** between two screens.
 
 ## Screenshots
 
-*Screen one code*
+*Code implementation of Screen One*
 ![](lib/assets/images/sc1.png)  
 
 
-*Screen two*
+*Code implementation of Screen Two*
 ![](lib/assets/images/sc2.png)  
 
 
